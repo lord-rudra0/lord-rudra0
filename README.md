@@ -26,7 +26,7 @@
    ## Software stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,figma,postman" />
+       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,flask,java,js,cs,c,html,css,mysql,mongodb" />
      </a>
    </p>
    
