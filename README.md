@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
+<h1 align="center">Hi there 👋, I am a bengali</h1>
 <h2 align="center">I am an aspiring game & web developer</h2>
 
 
@@ -19,7 +19,7 @@
 <hr />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lord-rudra0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align = "center" >
    
@@ -42,15 +42,15 @@
              
    
    ## 🧰 &nbsp;Github stats
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=neilseneasow&theme=radical&hide_border=false)<br/>
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeilSenEasow&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=lord-rudra0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra0&theme=radical&hide_border=false)<br/>
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
    
 <div />
 
 ### Visitors (since july 6th 2024)
 
-[![](https://visitcount.itsvg.in/api?id=NeilSenEasow&icon=0&color=0)](#Visitors)
+[![](https://visitcount.itsvg.in/api?id=lord-rudra0&icon=0&color=0)](#Visitors)
 
 <!---
 NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
