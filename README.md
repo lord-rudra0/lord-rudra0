@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I am a bengali</h1>
-<h2 align="center">I am an aspiring web developer and the greatest mathematician to have ever lived skrrrrr</h2>
+<h1 align="center">Hi there 👋, I am RUDRA PRATAP SINGH </h1>
+<h2 class="intro-title">I am an aspiring web developer with a passion for problem-solving and an unwavering dedication to mathematics.</h2>
+
 
 
 <hr />
