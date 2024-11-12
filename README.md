@@ -19,14 +19,14 @@
    ## Language Stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" />
+       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,js,mysql,flask,mongodb" />
      </a>
    </p>
    
    ## Software stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,flask,java,js,cs,c,html,css,mysql,mongodb" />
+       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,visualstudio" />
      </a>
    </p>
    
@@ -46,6 +46,6 @@
 [![](https://visitcount.itsvg.in/api?id=lord-rudra0&icon=0&color=0)](#Visitors)
 
 <!---
-NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lord-rudra0/lord-rudra0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
