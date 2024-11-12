@@ -7,8 +7,10 @@
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
-[![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rudra-pratap-singh-3b354b272/)
+[![Linkedin: Rudra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rudra-pratap-singh-3b354b272/)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lord-rudra0)
+[![Instagram: Rudra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lord_rudra_/)
+
 <hr />
 
 ## 🏆 GitHub Trophies
