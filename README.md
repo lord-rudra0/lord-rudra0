@@ -7,8 +7,8 @@
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
-[![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeilSenEasow)
+[![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rudra-pratap-singh-3b354b272/)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lord-rudra0)
 <hr />
 
 ## 🏆 GitHub Trophies
