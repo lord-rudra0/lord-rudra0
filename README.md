@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                           Hi there 👋, I am RUDRA PRATAP SINGH<br><br>I am an aspiring web developer with a passion for problem-solving and an <br>unwavering dedication to mathematics.
+Hi there 👋, I am RUDRA PRATAP SINGH .I am an aspiring web developer with a passion for problem-solving and an unwavering dedication to mathematics.
 
 
 ## 🌐 Socials:
