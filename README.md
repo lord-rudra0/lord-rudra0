@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudra Pratap Singh</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h3 align="center">I am an aspiring web developer with a passion for problem-solving and an unwavering dedication to mathematics.</h3>
 
 
 ## 🌐 Socials:
