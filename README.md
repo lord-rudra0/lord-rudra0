@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there 👋, I am RUDRA PRATAP SINGH .I am an aspiring web developer with a passion for problem-solving and an unwavering dedication to mathematics.
+ <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200">
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 
 
 ## 🌐 Socials:
@@ -19,4 +24,4 @@ Hi there 👋, I am RUDRA PRATAP SINGH .I am an aspiring web developer with a pa
 ---
 [![](https://visitcount.itsvg.in/api?id=lord-rudra0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
