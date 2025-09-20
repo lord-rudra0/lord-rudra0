@@ -48,9 +48,10 @@
     
     <td align="center" valign="middle">
       <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
-        <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
+        <img src="https://wakatime.com/badge/user/YOUR_CORRECT_ID_HERE.svg" alt="WakaTime Stats">
       </a>
-      <br/><br/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
+      <br/><br/>
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
     </td>
   </tr>
 </table>
@@ -58,9 +59,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
-
-
-
 
 ---
 
