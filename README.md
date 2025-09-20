@@ -45,8 +45,8 @@
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
     </td>
-    <td valign="top">
-      <br/> 
+    
+    <td align="center" valign="middle">
       <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
         <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
       </a>
