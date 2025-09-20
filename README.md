@@ -33,39 +33,18 @@
 ## 📊 GitHub Stats
 <div align="center">
 
+<!-- WakaTime Badge -->
 <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
   <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="Wakatime Stats" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lord-rudra0&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=lord-rudra0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-## 📈 More Stats
-<div align="center">
-
-[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flord-rudra0)
-
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=lord-rudra0&hide_rank=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
-</a>
-
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
-</a>
-
+<!-- Consolidated Stats: Streak, Top Languages, Visitors -->
 <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
+
+<!-- GitHub Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
