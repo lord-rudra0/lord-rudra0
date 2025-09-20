@@ -21,22 +21,28 @@
 
 
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+<div align="center">
 
-<a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59"><img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="Total time coded since Nov 13 2024" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=lord-rudra0)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lord-rudra0" alt="GitHub Streak" /></a>
+<a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
+  <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="Wakatime Stats" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=lord-rudra0&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![](https://visitcount.itsvg.in/api?id=lord-rudra0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <div align="center">
 
