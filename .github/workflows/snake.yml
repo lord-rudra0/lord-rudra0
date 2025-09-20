@@ -1,28 +1,37 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
-    - cron: "0 */12 * * *" # runs every 12 hours
+  # This section is now correctly indented
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
   generate:
+    # This permission is required for the Action to write files to your repository
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
+      # Checks out your repository so the Action can write to it
+      - uses: actions/checkout@v3
+
+      # Generates the snake files
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          
+          # This saves the files to an 'output' folder in your main branch
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      # Commits the generated files to your repository
+      - name: Commit and push snake animation
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          commit_message: "chore: generate contribution snake"
+          file_pattern: output/*.svg
+          branch: main # or master, depending on your default branch name
