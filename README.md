@@ -28,26 +28,62 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-  <p>
-    <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
-  </p>
-  
-  <p>
-    <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
-      <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
-  </p>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+
+<table cellpadding="10" cellspacing="10">
+
+  <tr>
+
+    <td>
+
+      <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+
+    </td>
+
+    <td>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+
+    </td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <td valign="top">
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
+
+    </td>
+
+    <td valign="center">
+
+      <br/> 
+
+      <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
+
+        <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
+
+      </a>
+
+      <br/><br/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+
 
 </div>
 
