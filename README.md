@@ -32,25 +32,35 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- First Row: GitHub Streak, Total Stats, Top Languages -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
-</p>
+<table>
+<tr>
+  <!-- Streak -->
+  <td>
+    <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+  </td>
 
-<!-- Second Row: WakaTime and Visitors -->
-<p>
-  <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
-    <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
-  </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
-</p>
+  <!-- Total Stats -->
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+  </td>
 
-<!-- GitHub Activity Graph -->
+  <!-- Top Language + WakaTime + Visitors -->
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Languages">
+    <br/>
+    <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59">
+      <img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="WakaTime Stats">
+    </a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flord-rudra0&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7" alt="Profile Visitors">
+  </td>
+</tr>
+</table>
+
+<!-- GitHub Activity Graph below -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord-rudra0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 
 
 
