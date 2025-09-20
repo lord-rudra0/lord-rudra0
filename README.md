@@ -59,7 +59,7 @@
 </div>
 ---
 
-## 🐍 Contribution Snake
+##  Contribution 🐍
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
