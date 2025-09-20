@@ -30,7 +30,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div>
 
 <!-- First Row: GitHub Streak, Total Stats, Top Languages -->
 <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak" width="200">
