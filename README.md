@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 
 <a href="https://wakatime.com/@3778b33f-5df4-47cb-8ba7-3810a6960f59"><img src="https://wakatime.com/badge/user/3778b33f-5df4-47cb-8ba7-3810a6960f59.svg" alt="Total time coded since Nov 13 2024" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lord-rudra0)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=lord-rudra0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra0&theme=dark&hide_border=false)<br/>
