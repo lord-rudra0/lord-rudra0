@@ -33,7 +33,7 @@
 <table cellpadding="10" cellspacing="10">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+      <!-- <img src="https://streak-stats.demolab.com?user=lord-rudra0&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak"> -->
       <!-- ![](https://nirzak-streak-stats.vercel.app/?user=lord-rudra0&theme=dark&hide_border=false) -->
       <img src="https://nirzak-streak-stats.vercel.app/?user=lord-rudra0&theme=dark&hide_border=false" alt="GitHub Streak">
 
